@@ -1,0 +1,31 @@
+{
+  // basic file formatting
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  // editor preferences
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "[plaintext]": {
+    "editor.wordWrap": "on"
+  },
+  "explorer.compactFolders": false,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Default Dark+",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "git.autofetch": true,
+  // silence update messages
+  "vsicons.dontShowNewVersionMessage": true,
+  "powershell.promptToUpdatePowerShell": false,
+  // deactivate GenAI bullshit
+  "git.suggestSmartCommit": false,
+  "chat.commandCenter.enabled": false,
+  "chat.agent.enabled": false,
+  "chat.disableAIFeatures": true
+}

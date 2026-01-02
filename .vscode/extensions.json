@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-vscode.powershell",
+    "ms-azuretools.vscode-containers",
+    "ms-vscode-remote.remote-containers",
+    "vscode-icons-team.vscode-icons",
+    "eamodio.gitlens",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "mechatroner.rainbow-csv"
+  ]
+}
